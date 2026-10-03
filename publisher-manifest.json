@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "698ed147aadaf53c33cf72b1",
+  "owner": "mgcskb",
+  "repo": "page-f34467c097e04dc6975d7e9f",
+  "title": "HQExpress",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f34467c097e04dc6975d7e9f",
+      "a": "HQExpress",
+      "b": "",
+      "entity": "HQExpress",
+      "brand": "HQExpress",
+      "separator": "",
+      "path": "index.html",
+      "hash": "02a40486c5c63749934a94d4cfd8685ea4425e62b741bb4d0c1daaea879bf548",
+      "content": {
+        "keyword1": "HQExpress",
+        "keyword2": "",
+        "primary_entity": "HQExpress",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "HQExpress 提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，全球优质节点覆盖流媒体解锁与游戏加速，欢迎访问官网选购套餐并获取正版订阅。",
+          "AI_DESCRIPTION": "HQExpress 提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，全球优质节点覆盖流媒体解锁与游戏加速，欢迎访问官网选购套餐并获取正版订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.7}a{color:#6d28d9;text-decoration:none}header{background:#fff;border-bottom:1px solid #e5e7eb}nav{display:flex;flex-wrap:wrap;gap:12px 18px;justify-content:center;padding:14px 16px}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}.hero{padding:80px 16px 56px;text-align:center}h1{font-size:2rem;color:#4c1d95;margin:0 0 14px;line-height:1.25;font-weight:700}.lead{font-size:1.125rem;color:#4b5563;max-width:740px;margin:0 auto 28px}.btn{display:inline-block;background:#6d28d9;color:#fff;padding:12px 24px;border-radius:8px;font-weight:600}h2{font-size:1.5rem;color:#4c1d95;margin:0 0 16px}h3{font-size:1.15rem;color:#5b21b6;margin:18px 0 8px}section{padding:28px 0}.card-row{display:flex;flex-wrap:wrap;gap:20px;justify-content:center}.card{background:#fff;border-radius:12px;padding:24px;flex:1 1 260px;max-width:340px;border:1px solid #e5e7eb}.card.featured{border:2px solid #7c3aed;background:#faf5ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:4px 10px;border-radius:999px;margin-bottom:8px}.price{font-size:1.75rem;font-weight:700;color:#4c1d95;margin:8px 0 0}.annual{color:#6b7280;font-size:.9rem;margin:4px 0 10px}.card ul,.scene ul{padding-left:18px;margin:8px 0 0}.card li,.scene li{margin-bottom:6px}.note{background:#fff;border-radius:12px;padding:20px 24px;border:1px solid #e5e7eb}ol.steps{padding-left:22px;margin:8px 0}ol.steps li{margin-bottom:10px}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:12px 16px;margin-bottom:10px}summary{font-weight:600;color:#4c1d95}details p{margin:10px 0 0;color:#374151}.box{background:#fff;border-radius:12px;padding:20px;border:1px dashed #c4b5fd}.box ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:10px 18px;margin:8px 0 0}footer{background:#111827;color:#d1d5db;padding:32px 16px;margin-top:16px;font-size:14px}footer a{color:#c4b5fd}footer h2{color:#e9d5ff;font-size:1.1rem}.sitemap{display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0 16px}@media(min-width:768px){h1{font-size:2.65rem}.hero{padding:104px 16px 72px}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">线路节点</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友链</a></nav></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap\"><h1>HQExpress 高速机场与 VPN 网络加速</h1><p class=\"lead\">HQExpress 官方网站提供机场订阅、VPN 梯子与多端加速器客户端下载。按需选择基础版、旗舰版或团队版，导入订阅即可在办公、影音与游戏场景中获得更稳定的跨境连接。</p><a class=\"btn\" href=\"#clients\">前往客户端选择</a></div></section><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><div class=\"note\"><p>HQExpress 是面向个人与小团队的网络加速服务品牌，核心能力是机场订阅与多协议客户端接入。我们把线路筛选、订阅更新和客户端指引放在同一套官网流程里，减少用户在找节点、找配置、找下载入口时的成本。</p><p>服务定位清晰：用可预期的流量套餐覆盖日常访问，用旗舰线路承担流媒体与游戏加速，用团队配额支持多设备协作。所有套餐说明、客户端选择与导入步骤均在本页公开，便于对照后完成官方下载与订阅。</p><p>请认准 HQExpress 官网获取订阅链接与客户端说明。仿冒站点通常会改套餐名称或诱导私下转账，正式开通请回到本页套餐与客户端专区操作。</p></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐价格</h2><p>三档套餐按月计费，支持按年支付以降低平均成本。流量为当月加速流量，到期按套餐规则重置。设备数指可同时在线的客户端数量。</p><div class=\"card-row\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section id=\"clients\"><div class=\"wrap\"><h2>客户端选择与官方下载</h2><div class=\"note\"><p>HQExpress 采用通用机场订阅，可在主流加速器中导入。官网不捆绑单一封闭软件，而是按系统给出稳定可用的客户端路径，方便你在电脑、手机和路由器之间切换。</p><h3>桌面端</h3><p>Windows 建议使用 Clash Verge 或 v2rayN，导入订阅后开启系统代理即可。macOS 可使用 ClashX Meta 或 Surge，按订阅类型选择 Clash 或单节点配置。Linux 用户可用 Clash Meta / sing-box 命令行或图形前端。</p><h3>移动端</h3><p>Android 推荐 Clash Meta for Android，支持订阅自动更新与分应用代理。iOS 可使用 Shadowrocket、Stash 或 Quantumult X，应用需自行通过商店获取，本站提供订阅字段与分流示例，不提供未授权安装包。</p><h3>路由与进阶</h3><p>OpenWrt 可用 OpenClash 或 sing-box；旁路网关可直接填写订阅 URL。团队版支持按域名、IP 段做定制路由，把办公系统走直连、跨境应用走加速。</p><p>完成套餐开通后，在账户信息中复制订阅地址，打开客户端的“从 URL 更新”或“添加订阅”，粘贴保存并更新节点。首次连接建议选择香港、日本或新加坡节点测试延迟，再按使用场景切换。</p><p><a href=\"#guide\">查看完整操作说明</a> · <a href=\"#faq\">客户端常见问题</a></p></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"card-row scene\"><article class=\"card\"><h3>跨境办公</h3><ul><li>访问海外文档、代码托管与会议系统</li><li>减少公共 Wi-Fi 下的明文风险</li><li>团队版可统一出口策略</li></ul></article><article class=\"card\"><h3>流媒体与学习</h3><ul><li>旗舰版强调原生解锁能力</li><li>适合课程平台、资料库与影音站点</li><li>基础版覆盖轻量观看需求</li></ul></article><article class=\"card\"><h3>游戏加速</h3><ul><li>IPLC 专线用于对延迟敏感的对局</li><li>可单独给游戏进程走代理</li><li>晚高峰仍优先保证专线质量</li></ul></article></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"note\"><ol class=\"steps\"><li>在套餐区对照流量、设备数与线路类型，选择基础版、旗舰版或团队版，按月或按年开通。</li><li>开通完成后进入订阅管理，复制 Clash / 通用订阅链接，不要把链接发到公开群组。</li><li>根据设备进入客户端选择：电脑装 Clash 系或 v2rayN，手机装 Clash Meta 或 iOS 商店应用。</li><li>在客户端添加订阅并更新，开启系统代理或 VPN 模式，先用近距离节点确认能打开网页。</li><li>按场景切换：浏览用普通节点，流媒体选解锁节点，游戏切 IPLC。若某节点超时，删除后重新更新订阅。</li><li>流量将尽时提前升级套餐；设备超限会挤占在线会话，团队使用请分配团队版配额。</li></ol><p>官方下载与配置说明只出现在本页客户端专区。若有人要求安装来路不明的“加速器安装包”，请停止操作并回到 HQExpress 官网核对。</p></div></div></section><section id=\"nodes\"><div class=\"wrap\"><h2>线路与节点说明</h2><div class=\"note\"><p>HQExpress 节点池覆盖香港、台湾、日本、韩国、新加坡、美国西岸及部分欧洲方向。基础版使用普通优质线路，适合网页、即时通讯和轻量视频；旗舰版与团队版开放 IPLC 专线、原生流媒体节点和游戏优化线路，带宽与晚高峰表现更稳定。</p><p>客户端内可查看实时延迟并手动切换。专线节点数量随维护调整，订阅更新后自动同步，无需反复导入。我们不在页面上放置无法核验的评分或用户评论，线路体验以你本地测速和实际业务为准。</p></div></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>HQExpress 是什么服务？和普通 VPN 有何不同？</summary><p>HQExpress 是机场订阅型网络加速服务。你购买的是可在多款客户端中导入的节点订阅，而不是单一品牌的封闭 App。这样可以按系统选择 Clash、v2rayN、Shadowrocket 等工具，也能把同一订阅用在路由器上，灵活度高于只提供一个安装包的传统 VPN。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在本页客户端专区确认系统对应软件，从该软件的正规渠道安装。然后复制 HQExpress 订阅 URL，在客户端选择“添加订阅/从 URL 更新”，保存后拉取节点列表，开启代理即可。iOS 应用需自行通过商店获取，官网只提供配置方法。</p></details><details><summary>三个套餐该怎么选？流量不够怎么办？</summary><p>轻度浏览和三台设备以内选基础版；需要原生流媒体、游戏专线或五台设备选旗舰版；工作室、家庭多终端或需要定制路由选团队版。月度流量用尽后加速会受限，可升级到更高档或等待次月重置，按年付只是锁定单价，不改变当月配额。</p></details><details><summary>支持哪些设备同时在线？会不会限速？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出数量时新会话可能挤掉旧会话。我们按套餐提供相应带宽策略，旗舰与团队的专线节点在高峰期仍优先保障稳定性，但不承诺固定Mbps数值，实际速度受本地宽带和目标网站影响。</p></details><details><summary>能否解锁流媒体，游戏延迟是否更低？</summary><p>基础版提供基础解锁，满足常见站点的轻量访问。旗舰版强调全节点原生流媒体解锁，并带 IPLC 游戏优化；团队版在此基础上增加高带宽 VIP 节点。游戏请优先连接标注专线或优化的节点，并用客户端规则只代理游戏进程，避免把更新下载也走加速流量。</p></details><details><summary>如何确认这是 HQExpress 官网，客服怎么联系？</summary><p>请核对浏览器地址与本页品牌名称、套餐价格是否一致。官方只通过站内工单处理旗舰版优先支持和团队版客户经理服务。不要向陌生账号发送订阅链接或验证码。若页面出现评分星级或伪造用户评价，即可判断并非本站风格。</p></details></div></section><section id=\"ads\"><div class=\"wrap\"><h2>合作与广告</h2><div class=\"box\"><p>本栏用于官网合作信息与文字广告位，仅展示与网络工具、客户端教程相关的合作内容，不含弹窗与外部资源。</p><ul><li><a href=\"#clients\">多端加速器配置指南</a></li><li><a href=\"#guide\">机场订阅导入教学</a></li><li><a href=\"#plans\">企业线路咨询入口</a></li></ul></div></div></section><section id=\"friends\"><div class=\"wrap\"><h2>友情链接</h2><div class=\"box\"><p>友链均为站内锚点，方便在官网各栏目间跳转，外部合作请走工单沟通。</p><ul><li><a href=\"#intro\">HQExpress 简介</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#nodes\">节点说明</a></li><li><a href=\"#faq\">问答中心</a></li><li><a href=\"#top\">返回顶部</a></li></ul></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>网站地图</h2><p class=\"sitemap\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">线路节点</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告合作</a><a href=\"#friends\">友情链接</a></p><p>HQExpress 官方网站 · 机场订阅与 VPN 网络加速客户端官方下载。本站为品牌唯一信息发布页，套餐、节点说明与客户端选择以当前页面为准。</p><p>sitemap：https://www.hqexpress.com/sitemap.xml</p></div></footer>",
+          "hash": "cd1f8a23809a04132b9a043b872e1bf594efdcc5bf58124e54a3360b2556d7d9",
+          "seo": {
+            "title": "HQExpress官网 - 高速VPN梯子与机场订阅客户端官方下载",
+            "keywords": "HQExpress,HQExpress官网,HQExpress VPN,HQExpress机场,VPN梯子,网络加速器,机场订阅,客户端下载,官方下载,Clash",
+            "description": "HQExpress 提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，全球优质节点覆盖流媒体解锁与游戏加速，欢迎访问官网选购套餐并获取正版订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nlfuglz.cn",
+    "host": "p-d795a0757c.nlfuglz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nlfuglz.cn",
+      "url": "https://nlfuglz.cn/",
+      "label": "潜艇",
+      "apex": "nlfuglz.cn",
+      "kind": null,
+      "identity": "fpxmgqfqx/page-aa2a625d9b0bca0af1ab7226"
+    },
+    {
+      "host": "xn--haita-9v0ls85a.com",
+      "url": "https://xn--haita-9v0ls85a.com/",
+      "label": "HQExpress",
+      "apex": "xn--haita-9v0ls85a.com",
+      "kind": null,
+      "identity": "kcmsskxse/page-bd11152c126fb711c75368bf"
+    },
+    {
+      "host": "xn--mitce-h02iv96g.com",
+      "url": "https://xn--mitce-h02iv96g.com/",
+      "label": "HQExpress",
+      "apex": "xn--mitce-h02iv96g.com",
+      "kind": null,
+      "identity": "ccbmykayw/page-b4012f6c0d92294448f5776c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5a83dfd3da6535a50a5a641f54ab7b3465049b298c18a66507c201adbf16b3f7",
+    "sitemap.xml": "c23b64bfc1405268067adb03d0ec169bffe4ab9cedeebcc4614a97436ccbd99c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8488034da5bf4479b3d3751ec2deb348a64350180ba3c509e97eb21628fd973",
+    "robots.txt": "3c56f18a49f3f458eb297545cd1535f59fbc0cd88f2acdb17c7d11913bf11497",
+    "4479e9eac9941a3e437238c2abdd1d2f.txt": "30ad47859ed335f368d69b3d78573bc7c544211cc78c265ca73f275d1db682e8"
+  },
+  "revision": "74a75e82374be2b46b209d274e8502c6ad3a11c11e5337061aecb77a1de07bf1"
+}
